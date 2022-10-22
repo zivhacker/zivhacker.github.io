@@ -1,1 +1,1 @@
-Ziv's Homepage
+Ziv's Blog
