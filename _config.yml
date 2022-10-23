@@ -1,0 +1,65 @@
+title: Ziv's Blog
+#tagline: 
+#description: 
+author:
+  name: Ziv
+  url: https://github.com/zivhacker
+  #twitter: 
+#url: "https://ziv.blog"
+twitter:
+  #username:
+  card: summary
+social:
+  name: Ziv
+  links:
+    - https://twitter.com/
+    - https://github.com/zivhacker
+
+defaults:
+  - scope:
+      path: ""      
+      type: "posts"
+    values:
+      author: "Ziv"
+  - scope:
+      path: ""      
+      type: "pages"
+    values:
+      author: "Ziv"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+remote_theme: zivhacker/jekyll-theme-fermi
+
+paginate: 20
+
+#google_analytics:
+
+#disqus:
+
+categories_path: /categories/
+tags_path: /tags/
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - script/
+  - CNAME
+  - README.md
