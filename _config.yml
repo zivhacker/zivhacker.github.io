@@ -41,7 +41,7 @@ paginate: 20
 
 google_analytics: G-2Y4WW65TCB
 
-#disqus:
+disqus: zivhakka
 
 categories_path: /categories/
 tags_path: /tags/
