@@ -1,13 +1,13 @@
 title: Ziv's Blog
-#tagline: 
-#description: 
+tagline: Writing is thinking
+description: This is the blog of Ziv. Most of the content will be notes on math, physics, programming, etc.
 author:
   name: Ziv
   url: https://github.com/zivhacker
-  #twitter: 
-#url: "https://ziv.blog"
+  twitter: zivhakka
+url: "https://zivs.blog"
 twitter:
-  #username:
+  username: zivhakka
   card: summary
 social:
   name: Ziv
