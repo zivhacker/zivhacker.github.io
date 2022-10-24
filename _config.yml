@@ -39,7 +39,7 @@ remote_theme: zivhacker/jekyll-theme-fermi
 
 paginate: 20
 
-#google_analytics:
+google_analytics: G-2Y4WW65TCB
 
 #disqus:
 
