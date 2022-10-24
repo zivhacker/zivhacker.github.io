@@ -1,7 +1,7 @@
 - title: Feed
   url: /feed.xml
   icon: fas fa-rss
-- title: Feed
+- title: Sitemap
   url: /sitemap.xml
   icon: fas fa-sitemap
 - title: Email
