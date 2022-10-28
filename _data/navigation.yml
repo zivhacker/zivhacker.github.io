@@ -2,3 +2,11 @@
   url: /
 - title: About
   url: /about/
+- title: Archive
+  url: /archive/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: Following
+  url: /following/
